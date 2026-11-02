@@ -68,7 +68,7 @@ This project demonstrates the application of Python-based data analysis techniqu
 
 
 ## Notebook
-📓 [View the notebook]([PASTE-NBVIEWER-OR-GITHUB-LINK](https://github.com/Mayuriladdha/amazon-prime-content-eda/blob/ff0d68d2c29f71d1bb575d89ec78e7f52e6d2510/amazon-prime-content-eda.ipynb.ipynb))
+📓 [View the notebook]([NBVIEWER-OR-GITHUB-LINK](https://github.com/Mayuriladdha/amazon-prime-content-eda/blob/ff0d68d2c29f71d1bb575d89ec78e7f52e6d2510/amazon-prime-content-eda.ipynb.ipynb))
 
 ## Author
 **Mayuri Laddha** · [LinkedIn](https://www.linkedin.com/in/mayuri-laddha-135938404) · [GitHub](https://github.com/Mayuriladdha)
